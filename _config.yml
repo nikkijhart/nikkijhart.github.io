@@ -1,5 +1,6 @@
 title: Nikki Hart
-description: Nikki Hart's portfolio.
+logo: media/portrait_small.jpeg
+description: Hi! I am a senior Mechanical Engineering student at Cornell with a minor in Robotics. I am also a NASA Pathways Intern with Johnson Space Center's Robotic Systems Technology Branch. My interests in robotics include perception, autonomy, and manipulation, particularly for applications like spaceflight where robust autonomy is necessary. 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
