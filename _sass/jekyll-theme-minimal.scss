@@ -118,7 +118,7 @@ img {
 .button {
   background-color: white;
   border: none;
-  color: #727272;
+  color: #e7e7e7;
   padding: 16px 32px;
   text-align: center;
   text-decoration: none;
@@ -127,12 +127,12 @@ img {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-  border: 2px solid #727272;
+  border: 2px solid #e7e7e7;
 }
 
 .button:hover {
-  background-color: #727272;
-  color: white;
+  background-color: #e7e7e7;
+  color: #727272;
 }
 
 kbd {
